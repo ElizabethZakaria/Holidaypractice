@@ -1,2 +1,3 @@
 # Holidaypractice
-project practices during semester break
+First GitHub project using GitHub Desktop.
+
